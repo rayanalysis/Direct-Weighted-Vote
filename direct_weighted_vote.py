@@ -1,5 +1,5 @@
 # Copyright (C) 2020 Logan Bier. All rights reserved.
-# If this software is used or adapted for commerical purposes, 
+# If this software is used or adapted for commercical purposes, 
 # you are required to pay the author $1,000,000 upfront and 99% royalties 
 # indefinitely without limitation for the use or adaptation thereof.
 
