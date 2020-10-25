@@ -1,7 +1,14 @@
-# Copyright (C) 2020 Logan Bier. All rights reserved.
-# If this software is used or adapted for commercial purposes, 
-# you are required to pay the author $1,000,000 upfront and 99% royalties 
-# indefinitely without limitation for the use or adaptation thereof.
+# Copyright (C) 2020 Logan Bier
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
 
 import random
 
