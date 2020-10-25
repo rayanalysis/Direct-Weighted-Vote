@@ -191,10 +191,10 @@ class main():
 
         if sum(self.weighted_vote_totals_candidate_1) > sum(self.weighted_vote_totals_candidate_2):
             win_margin = sum(self.weighted_vote_totals_candidate_1) - sum(self.weighted_vote_totals_candidate_2)
-            print('Candidate 1 is the new POTUS! They won by ' + str(win_margin) + ' votes!')
+            print('Candidate 1 won the distributed average vote! They won by ' + str(win_margin) + ' votes!')
 
         if sum(self.weighted_vote_totals_candidate_1) < sum(self.weighted_vote_totals_candidate_2):
             win_margin = sum(self.weighted_vote_totals_candidate_2) - sum(self.weighted_vote_totals_candidate_1)
-            print('Candidate 2 is the new POTUS! They won by ' + str(win_margin) + ' votes!')
+            print('Candidate 2 won the distributed average vote! They won by ' + str(win_margin) + ' votes!')
 
 main()
