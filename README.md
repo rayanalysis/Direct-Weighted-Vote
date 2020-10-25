@@ -1,2 +1,2 @@
 # Direct-Weighted-Vote
-This is a mathematically precise electoral program for determining a winning presidential candidate in the US.
+This is a mathematically precise game for determining a winning popular candidate using US population statistics as the default metric.
